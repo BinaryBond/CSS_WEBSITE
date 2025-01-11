@@ -53,6 +53,8 @@ module.exports = {
         fluid22: "clamp(11px, 2vw, 15px)",
         fluid23: "clamp(12px, 2vw, 15px)",
         fluid24: "clamp(14px, 2vw, 20px)",
+                kdfluid1: "clamp(11.7px, 1.85vw, 16px)", // for kdab side
+
       },
       width: {
         fluid1: "clamp(91px, 15vw, 107px)",
