@@ -2649,6 +2649,10 @@ input:checked + .toggle-bg {
   width: 1px;
 }
 
+.w-\[14\] {
+  width: 14;
+}
+
 .min-w-0 {
   min-width: 0px;
 }
